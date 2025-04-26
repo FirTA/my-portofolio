@@ -2,7 +2,7 @@ import React from "react";
 import SectionHeader from "./sections/SectionHeader";
 import ProjectCard from "./sections/ProjectCard";
 import apelmusicImage from "../assets/images/apelmusic.png";
-import devboardImage from "../assets/images/DevBoardgithub.png";
+import devboardImage from "../assets/images/DevBoardGithub.png";
 
 function Projects() {
   const projects = [
